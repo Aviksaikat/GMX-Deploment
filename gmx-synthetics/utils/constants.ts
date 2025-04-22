@@ -1,3 +1,0 @@
-export const SECONDS_PER_HOUR = 3600;
-export const SECONDS_PER_DAY = SECONDS_PER_HOUR * 24;
-export const SECONDS_PER_YEAR = SECONDS_PER_DAY * 365;
