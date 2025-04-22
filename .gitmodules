@@ -1,0 +1,3 @@
+[submodule "gmx-synthetics"]
+	path = gmx-synthetics
+	url = https://github.com/gmx-io/gmx-synthetics.git
