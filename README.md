@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# GMX Deployed Contract As Of 23 Apr 2025
-
-# Mainnet
-||||||| parent of b70ceda (feat: workflow added & emojies added for readme)
-# Mainnet
-=======
 # 📄 GMX Deployed Contracts as of 22 Apr 2025
->>>>>>> b70ceda (feat: workflow added & emojies added for readme)
 
 ## 🌐 Mainnet
 
