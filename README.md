@@ -1,4 +1,4 @@
-# 📄 GMX Deployed Contracts as of 22 Apr 2025
+# 📄 GMX Deployed Contracts as of 01 May 2025
 
 ## 🌐 Mainnet
 
@@ -483,4 +483,4 @@
 
 ---
 
-_Last updated: 22 Apr 2025_
+_Last updated: 01 May 2025_
